@@ -26,15 +26,15 @@ A full-stack portfolio website built using **Next.js App Router**, **MongoDB**, 
 
 ### 🏠 Homepage
 
-![Homepage](./public/screens/home.png)
+![Homepage](./public/screeens/home.png)
 
 ### 📬 Contact Form
 
-![Contact](./public/screens/contact.png)
+![Contact](./public/screeens/contact.png)
 
 ### 🧑‍💼 Admin Panel
 
-![Admin Panel](./public/screens/admin.png)
+![Admin Panel](./public/screeens/admin.png)
 
 ---
 
